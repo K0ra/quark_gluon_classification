@@ -1,0 +1,15 @@
+mlflow
+jupyter
+pandas
+scikit-learn
+numpy
+matplotlib
+plotly
+seaborn
+evidently
+xgboost
+optuna
+tensorflow
+keras
+tf-keras
+energyflow
